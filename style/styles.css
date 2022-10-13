@@ -1,6 +1,14 @@
 body {
   background-image: url(https://images.unsplash.com/photo-1498099916438-d96f52d0c7ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
 }
+.back {
+  background-color: beige;
+}
+img {
+  display: flex;
+  margin: 0 auto;
+  border-radius: 8px;
+}
 .header {
   text-align: center;
   font-size: 52px;
